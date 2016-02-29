@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Google NewTab",
+  "short_name": "g.n.t",
+  "description": "Replace the new tab page with Google",
+  "version": "1.0",
+  "chrome_url_overrides": {
+    "newtab": "redir.html"
+  }
+}
