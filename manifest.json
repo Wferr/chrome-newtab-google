@@ -5,6 +5,6 @@
   "description": "Replace the new tab page with Google",
   "version": "1.0",
   "chrome_url_overrides": {
-    "newtab": "redir.html"
+    "newtab": "https://google.com"
   }
 }
